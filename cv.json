@@ -40,30 +40,7 @@
       "startDate": "2023-04-01",
       "endDate": null,
       "summary": "Developing web applications with SpringBoot as backend and Angular as frontend.",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     }
   ],
   "references": [
